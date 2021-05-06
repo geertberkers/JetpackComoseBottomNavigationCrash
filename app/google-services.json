@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073375332898",
+    "project_id": "botvavo-1723f",
+    "storage_bucket": "botvavo-1723f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073375332898:android:8734b7f769804e9de9d87b",
+        "android_client_info": {
+          "package_name": "geert.berkers.botvavo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073375332898-gqs883rcia40mmqpkfbc3ka63gv8uboj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "geert.berkers.botvavo",
+            "certificate_hash": "2b3007c146b90ffe97017c9f10db043a535b1a76"
+          }
+        },
+        {
+          "client_id": "1073375332898-6btksh52a536thhepldcnm7tdlo4adqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZaCpeFfT202w5XPAfcIecCbVsP3J3I88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073375332898-6btksh52a536thhepldcnm7tdlo4adqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Botvavo</string>
+
+    <string name="botvavo_screen_home">Home</string>
+    <string name="botvavo_screen_profile">Profiel</string>
+
+</resources>
